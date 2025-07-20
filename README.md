@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adam – DevOps Engineer | Automation Enthusiast | Cloud-Native Builder
+# 👋 Hi, I'm Adam – IT & DevOps Engineer | Automation Enthusiast | Cloud-Native Builder
 
 🚀 I help teams move faster, safer, and smarter by automating infrastructure, scaling systems, and building resilient CI/CD pipelines.
 
